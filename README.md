@@ -11,7 +11,9 @@ The fcc lessons were challenging but extremely helpful at the same time. All tho
 
 ```js
 
-var array = [x,x,x[o,o,o]];
+var array = [x,x,x
+  [o,o,o]
+  ];
 
 ```
 
