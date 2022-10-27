@@ -27,7 +27,7 @@ This confused me because I was not sure what the first number and second number 
 
 ### Push ,Pop, Shift, and Unshift
 
-These statements all either remove or add a element to an array. Pop() removes the last element of an array. push() adds an element to the end of an array. shift() removes the first element. unshift() adds an element to the beginning of the array. These kind of confused me because it was hard to remember but I  
+These statements all either remove or add a element to an array. Pop() removes the last element of an array. push() adds an element to the end of an array. shift() removes the first element. unshift() adds an element to the beginning of the array. These kind of confused me because it was hard to remember but I studied them and eventually I remembered them.
 
 ### takeaways
 
