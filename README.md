@@ -14,3 +14,9 @@ The fcc lessons were challenging but extremely helpful at the same time. All tho
 var array = [x,x,x[o,o,o]];
 
 ```
+
+In order to access the o's in the array you have to do ...
+
+```js
+array [1][0];
+```
