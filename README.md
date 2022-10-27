@@ -9,7 +9,7 @@
 
 The fcc lessons were challenging but extremely helpful at the same time. All though they helped me a ton, I still had trouble with nested arrays. Nested arrays are arrays stored inside another array.
 
-'''JS
+'''js
 
 var array = [x,x,x[o,o,o]];
 
